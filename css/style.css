@@ -17,3 +17,12 @@ a {
     width: 30px;
     margin: 15px;
 }
+
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
+
+img{
+    width:400px;
+}
