@@ -31,12 +31,37 @@ a {
     color:white;
 }
 
+.main{
+    padding-top:30px;
+}
+
 .footer{
     background-color:#ffd700;
     display:flex;
     justify-content:space-around;
 }
 
+.aboutMain{
+    display:flex;
+}
+
+.leftpane{
+    width:30px;
+}
+
+.rightpane{
+    width:50px;
+}
+
+.thumbnail{
+    display:flex;
+}
+
+.thumbnail-image{
+    width:50px;
+}
+
 img{
     width:400px;
+    
 }
